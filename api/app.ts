@@ -1,9 +1,8 @@
-var express = require('express');
-var path = require('path');
-var cookieParser = require('cookie-parser');
-var logger = require('morgan');
-var cors = require('cors')
-// var serveIndex = require('serve-index')
+import express from 'express';
+import path from 'path';
+import cookieParser from 'cookie-parser';
+import logger from 'morgan';
+import cors from 'cors';
 
 var indexRouter = require('./routes/index');
 var articlesRouter = require('./routes/articles');
@@ -21,5 +20,9 @@ app.use('/articles', express.static(path.join(__dirname, '../articles')));
 
 app.use('/', indexRouter);
 app.use('/articles', articlesRouter);
+
+app.listen(5000, () => {
+	console.log('Server is running on port 5000');
+});
 
 module.exports = app;

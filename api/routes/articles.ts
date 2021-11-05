@@ -1,10 +1,10 @@
-var express = require('express');
+import express from 'express';
 var router = express.Router();
-var fg = require("fast-glob")
-var fs = require('fs');
-var path = require('path');
-var matter = require('gray-matter');
-var readTime = require('reading-time');
+import fg from 'fast-glob';
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import readTime from 'reading-time';
 
 /* GET articles. */
 router.get('/', function (req, res, next) {
