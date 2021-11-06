@@ -23,7 +23,7 @@ router.get('/', function (req, res, next) {
       title: data.title,
       file: file,
       url: req.protocol + '://' + req.get('host') + req.originalUrl + file,
-      publisedAt: data.publisedAt,
+      publishedAt: data.publishedAt,
       updatedAt: data.updatedAt,
       tags: data.tags,
       readingTime: readTime(matterResult.content),
