@@ -18,3 +18,4 @@
 ## Contribute
 
 * [Add to Knowledge Base](contribute/add-to-knowledge-base.md)
+* [License](LICENSE.md)
