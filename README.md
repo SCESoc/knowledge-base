@@ -48,3 +48,9 @@ Don't find something on here? Feel free to make edits to add pages or enhance ex
 {% content-ref url="contribute/add-to-knowledge-base.md" %}
 [add-to-knowledge-base.md](contribute/add-to-knowledge-base.md)
 {% endcontent-ref %}
+
+All information on this web page will be under the Creative Commons CC0 1.0 Universal License.
+
+{% content-ref url="LICENSE.md" %}
+[LICENSE.md](LICENSE.md)
+{% endcontent-ref %}
