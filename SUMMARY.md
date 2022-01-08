@@ -2,14 +2,14 @@
 
 * [Overview](README.md)
 
-## Topics
-
-* [Git](topics/git.md)
-
 ## Use Cases
 
 * [For Students](use-cases/for-students.md)
 * [For Professors](use-cases/for-professors.md)
+
+## Topics
+
+* [Git](topics/git.md)
 
 ## Contribute
 
