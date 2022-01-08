@@ -1,5 +1,5 @@
 ---
-description: A repository of Knowledge by SCESoc
+description: Knowledge Base - A Repository of Knowledge by SCESoc
 ---
 
 # Overview
