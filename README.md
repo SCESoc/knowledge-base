@@ -27,12 +27,24 @@ Every year, several talented students with various experiences and knowledge get
 
 ## Getting Started
 
-You can either go through the various topics or contribute by creating a new topic or enhancing an existing one.&#x20;
+You can either go through the various topics or contribute by creating a new topic or enhancing an existing one. Here are some common guides that you can follow to make the best use of this platform based on your role.
 
-### Guides: Jump right in
+{% content-ref url="use-cases/for-students.md" %}
+[for-students.md](use-cases/for-students.md)
+{% endcontent-ref %}
 
-Follow our handy guides to get started on the basics as quickly as possible:
+{% content-ref url="use-cases/for-professors.md" %}
+[for-professors.md](use-cases/for-professors.md)
+{% endcontent-ref %}
 
-### Fundamentals: Dive a little deeper
+### Discover Knowledge
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+You can browse the various topics to find information on different technologies and skills. You can also use the search bar on the top right to search for a certain topic.
+
+### Contributing
+
+Don't find something on here? Feel free to make edits to add pages or enhance existing pages. If you find an existing page, we recommend enhancing the page rather than creating a new one. Check out this page for more information on how to contribute.
+
+{% content-ref url="contribute/add-to-knowledge-base.md" %}
+[add-to-knowledge-base.md](contribute/add-to-knowledge-base.md)
+{% endcontent-ref %}

@@ -12,7 +12,7 @@ A very powerful way of interacting with your computer. While there are a few GUI
 
 Try some of these commands:
 
-```
+```shell
 echo "Hello World"
 pwd
 ls
@@ -22,7 +22,7 @@ ls
 
 First, let's make a directory using the shell.
 
-```
+```shell
 mkdir test-repo # create a directory
 file test-repo  # check if the directory exists
 cd test-repo    # change the current directory
@@ -31,7 +31,7 @@ pwd             # see the current directory
 
 Now lets make it a git repository!
 
-```
+```shell
 git init
 ```
 
@@ -41,7 +41,7 @@ Add some plain text files (.txt) to the directory any way you'd like.
 
 Using git status we can see there are untracked files
 
-```
+```shell
 git status
 ```
 
@@ -51,7 +51,7 @@ Now stage all files using `git add .` or stage a specific file using `git add FI
 
 When we commit we have to add a message describing the changes.
 
-```
+```shell
 git commit -m "Added txt files"
 ```
 
