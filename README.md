@@ -18,7 +18,7 @@ Every year, several talented students with various experiences and knowledge get
 * and more...
 
 {% hint style="info" %}
-**Note:** All information on here must reflect the ethical guidelines set by CarletonUniversity, including but not limited to:
+**Note:** All information on here must reflect the ethical guidelines set by Carleton University, including but not limited to:
 
 * [The Academic Integrity](https://carleton.ca/registrar/academic-integrity/)
 * [Equity and Inclusive Communities](https://carleton.ca/equity/)
