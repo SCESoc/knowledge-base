@@ -1,8 +1,9 @@
 ---
 description: Knowledge Base - A Repository of Knowledge by SCESoc
+coverY: 0
 ---
 
-# Overview
+# ℹ Overview
 
 > "If you have knowledge, let others light their candles in it"&#x20;
 >

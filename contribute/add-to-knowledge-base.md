@@ -1,4 +1,4 @@
-# Contribute to Knowledge Base
+# ✍ Contribute to Knowledge Base
 
 Anyone is welcome to contribute to this knowledge base. You may either add a new topic or page or enhance an existing one. Here are a few things to consider
 
