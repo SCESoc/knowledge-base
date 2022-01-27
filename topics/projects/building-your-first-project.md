@@ -11,6 +11,12 @@ Have you ever worked on a personal or side project before? If so, have you ever 
 
 Working on a project comes with a lot of challenges, but that's what makes it such a rewarding process. If you're thinking of working on your first project, it can be overwhelming. If you're someone that is thinking of starting your first project or having trouble making decent progress on a before you drop it, this guide is for you.
 
+If you prefer a video format of this topic, check out the following video:
+
+{% embed url="https://www.youtube.com/watch?v=qcESzXy1ROU" %}
+Talk given on "Building your first project" during Carleton Dev Day 2022
+{% endembed %}
+
 Each project is unique, and there are countless different types of projects one can work on. Hence, in this guide, we will use examples of building a physical house. Though this guide is geared towards computer and programming projects, we are going to use this example to keep things more general. Hopefully this way there is less bias towards a certain type of project in the computer world and keep a more general approach to tackling projects that could work for a wider variety of projects.
 
 ### Step 1: Coming up with an idea
