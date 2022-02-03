@@ -17,7 +17,7 @@
 ## Workshops and Talks
 
 * [2021-2022](workshops-and-talks/2021-2022/README.md)
-  * [SCETalk - Developing Tools to Support Secure Software Design using Compass](workshops-and-talks/2021-2022/scetalk-developing-tools-to-support-secure-software-design-using-compass.md)
+  * [🔐 SCETalk - Developing Tools to Support Secure Software Design using Compass](workshops-and-talks/2021-2022/scetalk-developing-tools-to-support-secure-software-design-using-compass.md)
 
 ## Contribute
 
