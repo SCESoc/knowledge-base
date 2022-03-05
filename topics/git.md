@@ -2,9 +2,9 @@
 
 ### Installing
 
-Linux: Use your package manager\
-macOS: https://git-scm.com/download/mac\
-Windows: https://git-scm.com/download/win
+Linux: [https://git-scm.com/download/linux](https://git-scm.com/download/linux)\
+macOS: [https://git-scm.com/download/mac](https://git-scm.com/download/mac)\
+Windows: [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 ### The shell
 
