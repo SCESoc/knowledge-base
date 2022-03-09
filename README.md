@@ -58,7 +58,7 @@ All information on this web page will be under the Creative Commons CC0 1.0 Univ
 
 ### Contact Us
 
-Got any questions, concerns, feedback or accommodation requests? Reach out to academic@scesoc.ca
+Got any questions, concerns, feedback or accommodation requests? Reach out to [academic@scesoc.ca](mailto:academic@scesoc.ca)
 
 {% hint style="info" %}
 Thanks to [GitBook](https://www.gitbook.com) for letting us host this information on their platform for free!
