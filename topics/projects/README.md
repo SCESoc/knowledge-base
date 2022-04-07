@@ -15,3 +15,11 @@ Projects are a great way for us to learn and expand our knowledge on various top
 * Can teach you to work with other people
 * Makes you more employable
 
+### Some Cool Projects to Check Out
+
+Check out our 2021-2022 Project Showcase Night where students showcased projects they have been working on!
+
+{% content-ref url="../../workshops-and-talks/2021-2022/project-showcase-night.md" %}
+[project-showcase-night.md](../../workshops-and-talks/2021-2022/project-showcase-night.md)
+{% endcontent-ref %}
+
