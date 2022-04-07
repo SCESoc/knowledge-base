@@ -1,6 +1,7 @@
 ---
 description: Knowledge Base - A Repository of Knowledge by SCESoc
 coverY: 0
+layout: landing
 ---
 
 # ℹ Overview
